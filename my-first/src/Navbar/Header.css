@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbarone{
+    display:flex;
+    flex-direction: column;
+    color: white;
+    background-color: rgb(3, 140, 71);
+}
+.{}
