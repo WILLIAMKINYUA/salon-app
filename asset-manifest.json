@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salon-app/static/css/main.d7d9daae.css",
+    "main.js": "/salon-app/static/js/main.fde80b43.js",
+    "index.html": "/salon-app/index.html",
+    "main.d7d9daae.css.map": "/salon-app/static/css/main.d7d9daae.css.map",
+    "main.fde80b43.js.map": "/salon-app/static/js/main.fde80b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d9daae.css",
+    "static/js/main.fde80b43.js"
+  ]
+}
